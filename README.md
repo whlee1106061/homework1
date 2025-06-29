@@ -1,5 +1,6 @@
-# Vue 3 + Vite
-
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
-
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+輸入網址必須為正確網址格式才可以新增
+按鈕功能 :
+"新增" 按鈕 -> 將網址加入收藏網址清單
+"顯示" 按鈕 -> 顯示收藏網址清單
+"清空全部" 按鈕 -> 將收藏網址清單清空
+清單的 "刪除" 按鈕 -> 刪除清單內的個別網址
